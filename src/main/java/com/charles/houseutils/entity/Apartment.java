@@ -29,6 +29,4 @@ public class Apartment {
     @Column(nullable = false)
     public Long price;
 
-
-
 }
